@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ca10cab-d968-422d-8514-25587090ac06" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY01/P1062/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY01/P1062/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY01/P1759/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY01/P1759/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY01/P3055/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY01/P3055/input.txt" afterDir="false" />
+    <list default="true" id="8ca10cab-d968-422d-8514-25587090ac06" name="Changes" comment="DAY01">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY01/P1062/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAY01/P1062/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +29,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="DAY01.P1759.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DAY01.P1759.Main" />
@@ -104,7 +95,16 @@
       <updated>1658145006790</updated>
       <workItem from="1658145016915" duration="5840000" />
       <workItem from="1658151378440" duration="1279000" />
+      <workItem from="1658152669467" duration="744000" />
     </task>
+    <task id="LOCAL-00001" summary="DAY01">
+      <created>1658152848273</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658152848274</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,5 +120,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DAY01" />
+    <option name="LAST_COMMIT_MESSAGE" value="DAY01" />
   </component>
 </project>
