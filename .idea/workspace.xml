@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ca10cab-d968-422d-8514-25587090ac06" name="Changes" comment="DAY01">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAY01/P1062/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAY01/P1062/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="8ca10cab-d968-422d-8514-25587090ac06" name="Changes" comment="Change branch" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +92,7 @@
       <updated>1658145006790</updated>
       <workItem from="1658145016915" duration="5840000" />
       <workItem from="1658151378440" duration="1279000" />
-      <workItem from="1658152669467" duration="744000" />
+      <workItem from="1658152669467" duration="1233000" />
     </task>
     <task id="LOCAL-00001" summary="DAY01">
       <created>1658152848273</created>
@@ -104,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658152848274</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Change branch">
+      <created>1658153491126</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658153491126</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +127,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="DAY01" />
-    <option name="LAST_COMMIT_MESSAGE" value="DAY01" />
+    <MESSAGE value="Change branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change branch" />
   </component>
 </project>
