@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ca10cab-d968-422d-8514-25587090ac06" name="Changes" comment="DAY03">
-      <change afterPath="$PROJECT_DIR$/src/DAY03/P2243/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY03/P2243/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY04/P14476/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY04/P14476/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY04/P9202/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY04/P9202/input.txt" afterDir="false" />
+    <list default="true" id="8ca10cab-d968-422d-8514-25587090ac06" name="Changes" comment="DAY04">
+      <change afterPath="$PROJECT_DIR$/src/DAY04/P3955/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY04/P3955/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY05/P1256/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY05/P1256/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY05/P1722/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY05/P1722/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY05/P1837/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY05/P1837/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,46 +44,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DAY03.P2243.Main">
-    <configuration name="DAY02.P1072.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DAY02.P1072.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DAY02.P1072.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DAY03.P1202.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DAY03.P1202.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DAY03.P1202.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DAY03.P1927.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DAY03.P1927.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DAY03.P1927.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.DAY04.P3955.Main">
     <configuration name="DAY03.P2243.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DAY03.P2243.Main" />
       <module name="Algorithm" />
@@ -95,12 +58,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DAY03.P2042.Main" />
+    <configuration name="DAY04.P3955.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DAY04.P3955.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DAY03.P2042.*" />
+          <option name="PATTERN" value="DAY04.P3955.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DAY05.P1722.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DAY05.P1722.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DAY05.P1722.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DAY05.P1837.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DAY05.P1837.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DAY05.P1837.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DAY05.P1256.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DAY05.P1256.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DAY03.P2243.Main" />
-        <item itemvalue="Application.DAY03.P1202.Main" />
-        <item itemvalue="Application.DAY03.P1927.Main" />
+        <item itemvalue="Application.DAY04.P3955.Main" />
+        <item itemvalue="Application.DAY05.P1837.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DAY02.P1072.Main" />
+        <item itemvalue="Application.DAY05.P1722.Main" />
+        <item itemvalue="Application.DAY03.P2243.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +134,8 @@
       <workItem from="1658189786693" duration="6149000" />
       <workItem from="1658204206116" duration="18569000" />
       <workItem from="1658275383482" duration="19082000" />
-      <workItem from="1658361124870" duration="12575000" />
+      <workItem from="1658361124870" duration="12604000" />
+      <workItem from="1658449683758" duration="12649000" />
     </task>
     <task id="LOCAL-00001" summary="DAY01">
       <created>1658152848273</created>
@@ -176,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658325477216</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="DAY04">
+      <created>1658393739150</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658393739151</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,7 +208,8 @@
     <MESSAGE value="Change branch" />
     <MESSAGE value="DAY02" />
     <MESSAGE value="DAY03" />
-    <option name="LAST_COMMIT_MESSAGE" value="DAY03" />
+    <MESSAGE value="DAY04" />
+    <option name="LAST_COMMIT_MESSAGE" value="DAY04" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
