@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ca10cab-d968-422d-8514-25587090ac06" name="Changes" comment="DAY05">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY06/P11438/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY06/P11438/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY06/P1922/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY06/P1922/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY07/P11657/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY07/P11657/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY07/P1753/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAY07/P1753/input.txt" afterDir="false" />
+    <list default="true" id="8ca10cab-d968-422d-8514-25587090ac06" name="Changes" comment="DAY07">
+      <change afterPath="$PROJECT_DIR$/src/DAY08/P3830/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY08/P3830/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,20 +44,7 @@
       <recent name="$PROJECT_DIR$/src/DAY06/P1922" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DAY06.P1922.Main">
-    <configuration name="DAY04.P3955.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DAY04.P3955.Main" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DAY04.P3955.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.DAY08.P3830.Main">
     <configuration name="DAY06.P1922.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DAY06.P1922.Main" />
       <module name="Algorithm" />
@@ -104,6 +84,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DAY08.P3830.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DAY08.P3830.Main" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DAY08.P3830.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DAY06.P11438.Main" />
       <module name="Algorithm" />
@@ -119,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DAY08.P3830.Main" />
         <item itemvalue="Application.DAY06.P1922.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DAY07.P11657.Main" />
         <item itemvalue="Application.DAY07.P1753.Main" />
-        <item itemvalue="Application.DAY04.P3955.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +137,8 @@
       <workItem from="1658361124870" duration="12604000" />
       <workItem from="1658449683758" duration="12696000" />
       <workItem from="1658707621454" duration="5180000" />
-      <workItem from="1658835913663" duration="5088000" />
+      <workItem from="1658835913663" duration="5464000" />
+      <workItem from="1658881005468" duration="4599000" />
     </task>
     <task id="LOCAL-00001" summary="DAY01">
       <created>1658152848273</created>
@@ -202,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658494556266</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="DAY07">
+      <created>1658844320239</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1658844320239</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,7 +227,8 @@
     <MESSAGE value="DAY03" />
     <MESSAGE value="DAY04" />
     <MESSAGE value="DAY05" />
-    <option name="LAST_COMMIT_MESSAGE" value="DAY05" />
+    <MESSAGE value="DAY07" />
+    <option name="LAST_COMMIT_MESSAGE" value="DAY07" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
